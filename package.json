@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/arun946.lwc-l7nfu1rr-fork-l7ngcs5p",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve bwySEfKQjy2ChYObTpih --open"
+  }
+}
